@@ -1,4 +1,5 @@
 # GDnet-QFramework-HybridCLR
+本框是QF客户端框架+GDNET服务端框架（包含客户端网络框架AOI框架）基于HybridCLR热更新的双端C#代码复用的架缝合框架
 QFramework 是提供一套简单、强大、易上手、符合 SOLID 原则、支持领域驱动设计（DDD）、事件驱动、数据驱动、分层、MVC 、CQRS、模块化、易扩展的架构，她的源码只有不到 800 行，你可以完全把她放在你的笔记应用里保存
   
   
